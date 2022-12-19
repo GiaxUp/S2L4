@@ -176,7 +176,7 @@ for (let i = 0; i < starWarsCharacters.length; i++) {
     default:
       console.log("Gli occhi non sono di questi colori.");
   }
-}
+} //Visto con Lidia la sera ma non funziona?
 
 /* ESERCIZIO 6
   Usa un while loop per calcolare la massa totale dell'equipaggio
